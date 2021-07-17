@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <-- 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
-- 📫 How to reach me: ... [Linkedin Account] (https://www.linkedin.com/in/haythem-zribi/)
+- 📫 How to reach me: ... [Linkedin Account] (https://linkedin.com/in/haythem-zribi/)
 - 😄 Pronouns: ... He/she
 - ⚡ Fun fact: ... Looking forward to breaking the world record for the loudest sneeze
 
