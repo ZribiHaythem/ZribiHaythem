@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👯 I’m looking to collaborate with **other content Magician**
+- 👯 I’m looking to collaborate with **other Magician content creator**
 
 - 📫 How to reach me **zribiHaythem@gmail.com**
 
