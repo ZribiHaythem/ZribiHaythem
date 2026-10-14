@@ -28,10 +28,8 @@
 - 🧪 I value automated testing, clear boundaries, pragmatic engineering, and continuous improvement.
 - 🚀 I also build independent products and experiments, including KUBIX and Drippy.
 - 🌍 Based in Tunisia; open to connecting with engineers and teams building thoughtful products.
-🧰 Tech Stack
-Languages
-<div align="center">
-  
+
+🧰 Tech Stack Languages
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript and JavaScript" />
 </p>
