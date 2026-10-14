@@ -28,41 +28,47 @@
 - 🧪 I value automated testing, clear boundaries, pragmatic engineering, and continuous improvement.
 - 🚀 I also build independent products and experiments, including KUBIX and Drippy.
 - 🌍 Based in Tunisia; open to connecting with engineers and teams building thoughtful products.
+
 🧰 <strong>Tech Stack Languages</strong>
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,bash" alt="TypeScript, JavaScript, HTML, CSS, and Bash" />
 </p>
 
-Frontend
+<strong>Frontend</strong>
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,sass,tailwind,vite,threejs" alt="Frontend technologies: React, Next.js, Angular, Vue, Redux, Sass, Tailwind CSS, Vite, and Three.js" />
 </p>
 
-Backend & Architecture
+<strong>Backend & Architecture</strong>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" alt="Backend technologies: Node.js, NestJS, Express, and GraphQL" />
 </p>
 
 Architecture & engineering: Domain-Driven Design (DDD) · Hexagonal Architecture · REST APIs · Serverless · Modular monoliths · API design
-Databases, Cloud & DevOps
+
+<strong>Databases, Cloud & DevOps</strong>
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,docker,kubernetes,git,github,gitlab,linux" alt="PostgreSQL, MongoDB, MySQL, Redis, AWS, Docker, Kubernetes, Git, GitHub, GitLab, and Linux" />
 </p>
 
-Security, Testing & Observability
+<strong>Security, Testing & Observability</strong>
 Auth0 · JWT · RBAC · CSRF · Jest · k6 · Trivy · Grafana · InfluxDB · CI/CD
-🚀 Selected Projects
-🧩 KUBIX — Digital Manufacturing Platform
+
+<strong>🚀 Selected Projects</strong>
+🧩 <strong>KUBIX</strong> — Digital Manufacturing Platform
 A digital manufacturing and operations platform exploring commerce, inventory, production workflows, delivery, payments, and reconciliation.
+
 - Focus: modular backend architecture, DDD, Hexagonal Architecture, and automated testing.
 - Stack: TypeScript, Next.js, NestJS, MongoDB, Redis, BullMQ, Stripe, Docker.
 - Engineering highlights: Nx monorepo, 40+ backend modules, and 750+ automated tests.
-🌀 Drippy — 3D Modeling & Collaboration
-A real-time collaborative 3D modeling platform.
+
+🌀 <strong>Drippy</strong> — 3D Modeling & Collaboration A real-time collaborative 3D modeling platform.
+
 - Focus: interactive 3D experiences and real-time collaboration.
 - Stack: Next.js, Three.js, Socket.IO, NestJS, AWS S3, Stripe.
-📦 Moga Delivery — Delivery & COD Operations
-A multi-country delivery and cash-on-delivery platform with field-oriented workflows.
+
+📦 Moga Delivery — Delivery & COD Operations A multi-country delivery and cash-on-delivery platform with field-oriented workflows.
+
 - Focus: delivery operations and offline-capable field experience.
 - Stack: React, Node.js, and related web technologies.
 Some professional projects are private or employer-owned, so I only share details and assets that are appropriate for public disclosure.
