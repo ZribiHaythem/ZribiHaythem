@@ -55,6 +55,7 @@ Architecture & engineering: Domain-Driven Design (DDD) · Hexagonal Architecture
 Auth0 · JWT · RBAC · CSRF · Jest · k6 · Trivy · Grafana · InfluxDB · CI/CD
 
 <strong>🚀 Selected Projects</strong>
+
 🧩 <strong>KUBIX</strong> — Digital Manufacturing Platform
 A digital manufacturing and operations platform exploring commerce, inventory, production workflows, delivery, payments, and reconciliation.
 
