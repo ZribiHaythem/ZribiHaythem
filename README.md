@@ -73,7 +73,7 @@ A digital manufacturing and operations platform exploring commerce, inventory, p
 - Stack: React, Node.js, and related web technologies.
 Some professional projects are private or employer-owned, so I only share details and assets that are appropriate for public disclosure.
 
-📊 GitHub at a Glance
+📊 <strong>GitHub at a Glance</strong>
 
 <div align="center">
    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zribihaythem&show_icons=true&locale=en" alt="zribihaythem" />
