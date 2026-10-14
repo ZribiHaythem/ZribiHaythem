@@ -76,7 +76,7 @@ Some professional projects are private or employer-owned, so I only share detail
 📊 GitHub at a Glance
 
 <div align="center">
-   <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=zribihaythem&show_icons=true&locale=en" alt="zribihaythem" />
+   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zribihaythem&show_icons=true&locale=en" alt="zribihaythem" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zribihaythem&layout=compact&hide_border=true&langs_count=8" alt="Most-used languages for zribihaythem" />
 </div>
 
