@@ -30,12 +30,15 @@
 - 🌍 Based in Tunisia; open to connecting with engineers and teams building thoughtful products.
 🧰 Tech Stack
 Languages
+<div align="center">
+  
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript and JavaScript" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bash" alt="HTML, CSS, and Bash" />
 </p>
+</div>
 
 Frontend
 <p>
@@ -71,8 +74,7 @@ Databases, Cloud & DevOps
 Security, Testing & Observability
 Auth0 · JWT · RBAC · CSRF · Jest · k6 · Trivy · Grafana · InfluxDB · CI/CD
 🚀 Selected Projects
-🧩 KUBIX — Digital Manufacturing Platform
-A digital manufacturing and operations platform exploring commerce, inventory, production workflows, delivery, payments, and reconciliation.
+🧩 KUBIX — Digital Manufacturing Platform: A digital manufacturing and operations platform exploring commerce, inventory, production workflows, delivery, payments, and reconciliation.
 - Focus: modular backend architecture, DDD, Hexagonal Architecture, and automated testing.
 - Stack: TypeScript, Next.js, NestJS, MongoDB, Redis, BullMQ, Stripe, Docker.
 - Engineering highlights: Nx monorepo, 40+ backend modules, and 750+ automated tests.
