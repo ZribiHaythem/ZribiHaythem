@@ -67,7 +67,7 @@ A digital manufacturing and operations platform exploring commerce, inventory, p
 - Focus: interactive 3D experiences and real-time collaboration.
 - Stack: Next.js, Three.js, Socket.IO, NestJS, AWS S3, Stripe.
 
-📦 Moga Delivery — Delivery & COD Operations A multi-country delivery and cash-on-delivery platform with field-oriented workflows.
+📦 <strong>Moga Delivery</strong> — Delivery & COD Operations A multi-country delivery and cash-on-delivery platform with field-oriented workflows.
 
 - Focus: delivery operations and offline-capable field experience.
 - Stack: React, Node.js, and related web technologies.
