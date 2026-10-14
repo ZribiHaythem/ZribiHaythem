@@ -28,51 +28,32 @@
 - 🧪 I value automated testing, clear boundaries, pragmatic engineering, and continuous improvement.
 - 🚀 I also build independent products and experiments, including KUBIX and Drippy.
 - 🌍 Based in Tunisia; open to connecting with engineers and teams building thoughtful products.
-
-🧰 Tech Stack Languages
+🧰 <strong>Tech Stack Languages</strong>
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,bash" alt="TypeScript, JavaScript, HTML, CSS, and Bash" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bash" alt="HTML, CSS, and Bash" />
-</p>
-</div>
 
 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" alt="React, Next.js, and Angular" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,redux,sass" alt="Vue, Redux, and Sass" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,vite,threejs" alt="Tailwind CSS, Vite, and Three.js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,sass,tailwind,vite,threejs" alt="Frontend technologies: React, Next.js, Angular, Vue, Redux, Sass, Tailwind CSS, Vite, and Three.js" />
 </p>
 
 Backend & Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" alt="Node.js, NestJS, and Express" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" alt="Backend technologies: Node.js, NestJS, Express, and GraphQL" />
 </p>
 
 Architecture & engineering: Domain-Driven Design (DDD) · Hexagonal Architecture · REST APIs · Serverless · Modular monoliths · API design
 Databases, Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="PostgreSQL, MongoDB, MySQL, and Redis" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" alt="AWS, Docker, and Kubernetes" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" alt="Git, GitHub, GitLab, and Linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,docker,kubernetes,git,github,gitlab,linux" alt="PostgreSQL, MongoDB, MySQL, Redis, AWS, Docker, Kubernetes, Git, GitHub, GitLab, and Linux" />
 </p>
 
 Security, Testing & Observability
 Auth0 · JWT · RBAC · CSRF · Jest · k6 · Trivy · Grafana · InfluxDB · CI/CD
 🚀 Selected Projects
-🧩 KUBIX — Digital Manufacturing Platform: A digital manufacturing and operations platform exploring commerce, inventory, production workflows, delivery, payments, and reconciliation.
+🧩 KUBIX — Digital Manufacturing Platform
+A digital manufacturing and operations platform exploring commerce, inventory, production workflows, delivery, payments, and reconciliation.
 - Focus: modular backend architecture, DDD, Hexagonal Architecture, and automated testing.
 - Stack: TypeScript, Next.js, NestJS, MongoDB, Redis, BullMQ, Stripe, Docker.
 - Engineering highlights: Nx monorepo, 40+ backend modules, and 750+ automated tests.
@@ -96,7 +77,6 @@ Some professional projects are private or employer-owned, so I only share detail
   <img src="https://streak-stats.demolab.com?user=zribihaythem&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-<sub>Stats cards are provided by external services and may occasionally be unavailable. The language card reflects repository contents, not necessarily overall engineering proficiency.</sub>
 🤝 Let's Connect
 I'm always happy to exchange ideas about software architecture, full-stack development, cloud engineering, identity and security, and developer experience.
 - 💼 Connect with me on LinkedIn
