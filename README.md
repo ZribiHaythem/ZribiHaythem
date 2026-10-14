@@ -1,8 +1,11 @@
 <div align="center">
 
-Hey, I'm Haythem Zribi 👋
-Full Stack Engineer · Lead Developer · Software Architecture
-I build reliable web platforms, design maintainable systems, and solve engineering problems across the stack.
+<h1><strong>Hey, I'm Haythem Zribi 👋</strong></h1>
+
+<h3><strong>Full Stack Engineer · Lead Developer · Software Architecture</strong></h3>
+
+<p>I build reliable web platforms, design maintainable systems, and solve engineering problems across the stack.</p>
+
 <p>
   <a href="https://github.com/zribihaythem">
     <img src="https://img.shields.io/badge/GitHub-zribihaythem-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
@@ -19,7 +22,7 @@ I build reliable web platforms, design maintainable systems, and solve engineeri
 
 👨‍💻 About Me
 - 🏗️ I work across frontend, backend, architecture, and cloud infrastructure.
-- 🧭 I’m interested in software architecture, DDD, Hexagonal Architecture, and maintainable systems.
+- 🧭 I’m interested in software architecture, Domain-Driven Design (DDD), Hexagonal Architecture, and maintainable systems.
 - 🔐 I work with identity, authentication, application security, and Auth0.
 - ⚡ I enjoy performance engineering, observability, and making development workflows more efficient.
 - 🧪 I value automated testing, clear boundaries, pragmatic engineering, and continuous improvement.
@@ -28,23 +31,41 @@ I build reliable web platforms, design maintainable systems, and solve engineeri
 🧰 Tech Stack
 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,bash" alt="TypeScript, JavaScript, HTML, CSS, Bash" />
+  <img src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript and JavaScript" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bash" alt="HTML, CSS, and Bash" />
 </p>
 
 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,sass,tailwind,vite,threejs" alt="React, Next.js, Angular, Vue, Redux, Sass, Tailwind CSS, Vite, Three.js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" alt="React, Next.js, and Angular" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,redux,sass" alt="Vue, Redux, and Sass" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,vite,threejs" alt="Tailwind CSS, Vite, and Three.js" />
 </p>
 
 Backend & Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" alt="Node.js, NestJS, Express, GraphQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" alt="Node.js, NestJS, and Express" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
 </p>
 
 Architecture & engineering: Domain-Driven Design (DDD) · Hexagonal Architecture · REST APIs · Serverless · Modular monoliths · API design
 Databases, Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,docker,kubernetes,git,github,gitlab,linux" alt="PostgreSQL, MongoDB, MySQL, Redis, AWS, Docker, Kubernetes, Git, GitHub, GitLab, Linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="PostgreSQL, MongoDB, MySQL, and Redis" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" alt="AWS, Docker, and Kubernetes" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" alt="Git, GitHub, GitLab, and Linux" />
 </p>
 
 Security, Testing & Observability
